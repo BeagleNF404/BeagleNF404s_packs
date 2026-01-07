@@ -8,6 +8,13 @@
 <a href="https://modrinth.com/user/BeagleNF4O4">
   <img src="https://github.com/user-attachments/assets/9b79182e-e19d-44f1-a429-01cd34fedd2f" alt="BeagleNF4O4">
 </a>
-<img width="202" height="98" alt="emptybutton2" src="https://github.com/user-attachments/assets/7142d435-26d7-428d-8c62-39680aa55065" />
-<img width="307" height="98" alt="emptybutton" src="https://github.com/user-attachments/assets/126f8558-a298-4869-b656-288d5218b63f" />
+<a href="https://github.com/BeagleNF404/BeagleNF404s_packs/issues" target="_blank">
+  <img src="https://github.com/user-attachments/assets/1e7b43a6-22f5-4bd5-bfe3-76edbc17acb0" alt="Bugs" />
+</a>
+<a href="https://github.com/BeagleNF404/BeagleNF404s_packs/issues" target="_blank">
+  <img src="https://github.com/user-attachments/assets/1df68158-8ecd-4cac-87fe-b1be77960261" alt="BeagleNF404 Issues" />
+</a>
+
+
+
 
