@@ -1,8 +1,14 @@
 <img width="2048" height="509" alt="beaglesbugtracker" src="https://github.com/user-attachments/assets/48669a7f-11bf-4ac3-8b22-8984cb6729cc" />
 
-‎ 
-‎ 
-‎ ─────────────────────────────────────────────────────────────────────────
+
+<!--
+Source - https://stackoverflow.com/a/61625680
+Posted by Suman, modified by community. See post 'Timeline' for change history
+Retrieved 2026-02-04, License - CC BY-SA 4.0
+-->
+
+<hr style="border:2px solid gray">
+
 ‎ 
 
 <a href="https://modrinth.com/user/BeagleNF4O4">
