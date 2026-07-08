@@ -11,7 +11,7 @@ Retrieved 2026-02-04, License - CC BY-SA 4.0
 
 ‎ 
 
-<a href="https://modrinth.com/user/BeagleNF4O4">
+<a href="https://modrinth.com/user/BeagleNF404">
   <img src="https://github.com/user-attachments/assets/9b79182e-e19d-44f1-a429-01cd34fedd2f" alt="BeagleNF4O4">
 </a>
 <a href="https://github.com/BeagleNF404/BeagleNF404s_packs/issues" target="_blank">
